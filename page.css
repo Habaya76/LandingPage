@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+ body{
+     margin: 0;
+     padding: 0;
+ }
+.header{
+    background: rgb(188, 190, 192);
+}
+.header_droite{
+    text-align: right;
+    text-decoration: none;
+    height: auto;
+}
+.telecharger_cv{
+    border-radius: 10px;
+    background: rgb(219, 16, 16);
+    height: 40px;
+    color: white;
+    
+}
+.centre{
+    text-align: center;
+}
+.verslebas{
+    text-align: center;
+}
+.milieu{
+    background: whitesmoke;
+    text-align: center;
+
+}
+.photo_gauche{
+    text-align: left;
+    
+}
+.competences_gauche{
+    text-align: justify;
+}
+.competences_droite{
+    text-align: right;
+}
